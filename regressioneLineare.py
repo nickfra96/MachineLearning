@@ -1,3 +1,5 @@
+#Regressione lineare semplice.
+
 import pandas as pd
 import numpy as np
 #usiamo il dataset Boston
