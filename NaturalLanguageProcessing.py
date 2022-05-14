@@ -1,5 +1,5 @@
 #Questo modello si basa su un dataset di email scritte in lingua inglese. Il fine del modello è quello di capire se una email è spam o meno. 
-#Viene usato un modello di regressione lineare logistica che ci permette di catalogare le email.
+#Viene usato un modello di regressione logistica che ci permette di catalogare le email.
 #Il dataset è stato strutturato sulla "label", usando un dizionario, associando alle email ham=1 e alle spam=0. 
 #Si è dato il 30% del dataset (dati) al modello per fare l'addestramento. 
 #Il modello è affidabile in quanto ha una precisione del 98%. 
